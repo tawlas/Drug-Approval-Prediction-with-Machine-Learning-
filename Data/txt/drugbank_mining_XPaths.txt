@@ -1,0 +1,18 @@
+QUERYS	MODE	FILENAME	BY_QUERY
+./drug[name="*Query*"]/categories/category/category	tabled	category	
+#./drug[name="*Query*"]/categories/category/mesh-id	tabled		
+#./drug[name="*Query*"]/targets/target/id	tabled		
+./drug[name="*Query*"]/targets/target/name	tabled	targets	
+./drug[name="*Query*"]/half-life;./drug[name="*Query*"]/protein-binding;./drug[name="*Query*"]/route-of-elimination;./drug[name="*Query*"]/volume-of-distribution;./drug[name="*Query*"]/clearance	listed	PK	
+#./drug[name="*Query*"]/enzymes/enzyme/id	tabled		
+./drug[name="*Query*"]/enzymes/enzyme/name	tabled	enzymes	
+#./drug[name="*Query*"]/transporters/transporter/id	tabled		
+./drug[name="*Query*"]/transporters/transporter/name	tabled	transporters	
+#./drug[name="*Query*"]/carriers/carrier/id	tabled		
+./drug[name="*Query*"]/carriers/carrier/name	tabled	carriers	
+./drug[name="*Query*"]/snp-adverse-drug-reactions/reaction/gene-symbol	tabled	snp-adverse-drug-reactions	
+#./drug[name="*Query*"]/drug-interactions/drug-interaction/drugbank-id	tabled		
+./drug[name="*Query*"]/drug-interactions/drug-interaction/name	tabled	drug-interactions	
+./drug[name="*Query*"]/sequences/sequence	fasta	sequences	
+./drug[name="*Query*"]/experimental-properties/property/kind	crossed	experimental-properties	./drug[name="*Query*"]/experimental-properties/property[kind="*Cross*"]/value
+./drug[name="*Query*"]/calculated-properties/property/kind	crossed	calculated-properties	./drug[name="*Query*"]/experimental-properties/property[kind="*Cross*"]/value

@@ -1,0 +1,555 @@
+	experimental-properties:Boiling Point	experimental-properties:Hydrophobicity	experimental-properties:Isoelectric Point	experimental-properties:Melting Point	experimental-properties:Molecular Formula	experimental-properties:Molecular Weight	experimental-properties:Water Solubility	experimental-properties:caco2 Permeability	experimental-properties:logP	experimental-properties:logS	experimental-properties:pKa
+(4R)-limonene 1α,2α-epoxide											
+2-Methoxyestradiol											
+2-chloroethyl-3-sarcosinamide-1-nitrosourea											
+6-O-benzylguanine											
+7-Hydroxystaurosporine											
+ABT-510											
+ABT-751											
+ABT-869											
+ADH-1											
+AI-850											
+AN-9											
+AS1409											
+ASP-3026											
+AT7519											
+AT9283											
+ATN-161											
+ATP				176 °C			1E+006 mg/L		-5.5		
+AUY922											
+AZD-4877											
+AZD-8055											
+AZD3409											
+Abemaciclib											
+Abiraterone											
+Abituzumab											
+Acalabrutinib							Freely soluble in water at pH values below 3 but is practically insoluble in water at pH values above 6				
+Acridine Carboxamide											
+Adecatumumab											
+Afatinib											
+Aflibercept					C4318H6788N1164O1304S32	115000.0	>100 mg/mL				
+Albendazole				208-210			Practically insoluble		2.7		
+Aldesleukin		-0.192	7.31		C690H1115N177O202S6	15314.8					
+Aldoxorubicin											
+Alectinib											7.05
+Alemtuzumab		-0.431	8.76	61 °C (FAB fragment), 71 °C (whole mAb)	C6468H10066N1732O2005S40	145453.8					
+Alisertib											
+Alitretinoin				189-190 °C			0.6 mg/L		4.2		
+Alvespimycin							Soluble				
+Alvocidib											
+Amifostine							1000 mg/mL		-1.9		
+Amonafide											
+Amrubicin	717.8			172-174 			not soluble in water, but soluble in DMSO		2.64		
+Anhydrovinblastine											
+Annamycin											
+Apaziquone											
+Apitolisib											
+Arsenic trioxide							1.7E+004 mg/L (at 16 °C)				
+Arzoxifene											
+Asparaginase Escherichia coli		0.059	4.67		C1377H2208N382O442S17	31731.9					
+Atacicept											
+Atezolizumab						145000.0					
+Atrasentan											
+Avelumab					C6374H9898N1694O2010S44	142.0					
+Aviscumine											
+Axitinib							In aqueous media with a pH between 1.1 to 7.8, axitinib has a solubility of over 0.2 μg/mL. 				4.8
+Azacitidine				229 °C			8.9E+004 mg/L		-3.5		
+BMS-184476											
+BMS-275183											
+BMS-599626											
+BMS-690514											
+BMS-908662											
+BZL101											
+Bacitracin				221-225 °C			Freely soluble		-0.8		
+Banoxantrone											
+Barasertib											
+Bardoxolone methyl											
+Batimastat											
+Becatecarin											
+Belinostat							0.14 mg/mL				7.87 and 8.71 by potentiometry
+Beloranib											
+Belotecan											
+Bendamustine											
+Bevacizumab				61 °C (FAB fragment), 71 °C (whole mAb)	C6538H10034N1716O2033S44	149000.0					
+Bexarotene									6.9		
+Binetrakin											
+Binimetinib											
+Bizelesin											
+Bleomycin				71 °C			Soluble				
+Bleomycin A6											
+Blinatumomab					C2367H3577N649O772S19	54100.0					
+Bortezomib							The solubility of bortezomib, as the monomeric boronic acid, is 3.3 to 3.8 mg/mL in a pH range of 2 to 6.5.				
+Bosutinib											
+Brentuximab vedotin					C6476H9930N1690O2030S40	150500.0					
+Brivanib alaninate											
+Brostallicin											
+Broxuridine											
+Bryostatin 1											
+Buparlisib											
+Busulfan				106-107			6.9E+004 mg/L		-0.52		
+Buthionine Sulfoximine											
+CH-5132799											
+CHS-828											
+CP-609754											
+CP-724714											
+CPI-613											
+CT-011											
+CT-2584											
+CUDC-101											
+CYT997											
+Cabazitaxel											
+Cabozantinib							COMETRIQ is practically insoluble in water.				
+Canertinib											
+Canfosfamide											
+Cantuzumab ravtansine					C6570H10130N1726O2018S44(C42H59ClN3O11S2)n						
+Capecitabine				110-121 °C			26 mg/mL		0.4		
+Carboplatin											
+Carboxyamidotriazole											
+Carfilzomib							Insoluble 				3.5
+Carlumab											
+Carmustine				31 °C			4000 mg/L (at 25 °C)		1.53		
+Catumaxomab						150511.0					
+Cediranib											
+Celecoxib				158 °C			Very low water solubility (3.3 mg/L)		3.9		
+Ceritinib											9.7 and 4.1
+Cetuximab		-0.413	8.48	61 °C (FAB fragment), 71 °C (whole mAb)	C6484H10042N1732O2023S36	145781.6					
+Cevipabulin											
+Chlorambucil				65 °C			1.24E+004 mg/L		1.70		5.75
+Chloroquine							10.6 mg/L		4.63		10.1
+Chlorsulfaquinoxaline											
+Ciclopirox				143					2.3		
+Cilengitide											
+Cintredekin Besudotox											
+Cisplatin				270 dec °C			2530 mg/L (at 25 °C)		-2.19		
+Cixutumumab											
+Cladribine				215 °C					-0.1		
+Clofarabine									0		
+Cobimetinib											
+Coltuximab ravtansine											
+Conatumumab											
+Copanlisib											
+Corticorelin											
+Cositecan											
+Crizotinib									1.83 		
+Curcumin											
+Cyanocobalamin				> 300 °C			1.25E+004 mg/L				
+Cyclopentolate				134-136					2.4		
+Cyclophosphamide				48-49			Soluble. 1-5 g/100 mL at 23 °C		0.8		
+Cytarabine				186-188			Freely soluble		-2.8		
+Cytidine 3'-monophosphate											
+DOTMP HO-166											
+DTS-201											
+Dabrafenib											
+Dacarbazine				205 °C			4220 mg/L		-0.24		
+Daclizumab		-0.437	8.46	61 °C (FAB fragment), 71 °C (whole mAb)	C6332H9808N1678O1989S42	142612.1					
+Dacomitinib											
+Dactinomycin				241.5-243 °C			Soluble at 10 °C		1.6		
+Dactolisib											
+Daniquidone											
+Danusertib											
+Daratumumab											
+Dasatinib				280-286 °C					1.8		
+Daunorubicin				208-209 °C			39.2 mg/L		1.83		
+Decitabine							Sparingly soluble				
+Defactinib											
+Demcizumab											
+Denibulin											
+Denileukin diftitox		-0.301	5.45		C2560H4042N678O799S17	57647.3					
+Deoxyspergualin											
+Depatuxizumab mafodotin											
+Dichloroacetic Acid	194 °C			13.5 °C			1E+006 mg/L (at 20 °C)		0.92		1.26
+Diethylnorspermine											
+Diethylstilbestrol				172			12 mg/L (at 25 °C)		5.07	-4.35	
+Dinaciclib											
+Docetaxel				232 °C			Insoluble 		2.4		
+Dolastatin 10											
+Dovitinib											
+Doxifluridine											
+Doxorubicin				229-231 °C			Soluble	-6.8	1.27		
+Durvalumab					C6502H10018N1742O2024S42	146300.0					
+E-7820											
+E7107											
+Edotecarin											
+Efatutazone											
+Eflornithine											
+Elacridar											
+Elacytarabine											
+Elotuzumab					C6476H9982N1714O2016S42	148100.0					
+Emibetuzumab											
+Enasidenib											
+Endostar											
+Eniluracil											
+Ensituximab											
+Entinostat											
+Enzalutamide							Insoluble 				
+Enzastaurin											
+Epirubicin				344.53 °C			0.093 mg/ml		-0.5		
+Epofolate											
+Epratuzumab											
+Erdafitinib											
+Eribulin											
+Erlotinib							Very slightly soluble (hydrochloride salt - maximal solubility of approximately 0.4 mg/mL occurs at a pH of approximately 2)		2.7		
+Estramustine				155					5.7		
+Etalocib											
+Etanidazole											
+Etaracizumab											
+Etodolac				146.5 °C			16 mg/L		2.5		4.65
+Etoposide				236-251 °C			Sparingly soluble 		0.60		
+Everolimus											
+Evofosfamide											
+Exatecan											
+Exemestane				155.13 °C			Non-soluble		3.7		
+Exisulind											
+Falnidamol											
+Famitinib											
+Farletuzumab											
+Fenretinide											
+Figitumumab											
+Filanesib											
+Floxuridine				150.5 °C			1.19E+004 mg/L		-1.16		7.44
+Fludarabine				260 °C			3.53 mg/ml		-2.8		
+Fluorouracil				282-283			1.11E+004 mg/L (at 22 °C)		-0.89	-1.07	8.02
+Foretinib											
+Forodesine											
+Fostamatinib											
+Fotemustine											
+Fresolimumab											
+Fruquintinib											
+GDC-0917											
+GPX-150											
+GSK-923295											
+GTI 2040											
+Galeterone											
+Galiximab											
+Galunisertib											
+Gandotinib											
+Ganitumab											
+Gefitinib							Sparingly soluble (<pH4)		3.2		5.4 and 7.2
+Gemcitabine				168.64 °C			Soluble		-1.4		3.6
+Gemcitabine elaidate											
+Gemtuzumab ozogamicin				61 °C (FAB fragment), 71 °C (whole mAb)		151500.0					
+Gilteritinib											
+Gimatecan											
+Glasdegib											
+Glufosfamide											
+Gossypol											
+Grn163l											
+Gusperimus											
+Halofuginone											
+IMC-1C11											
+ING-1											
+IPH 1101											
+IPH 2101											
+Ibritumomab tiuxetan		-0.359	7.91	61 °C (FAB fragment), 71 °C (whole mAb)	C6382H9830N1672O1979S54	143375.5					
+Ibrutinib				149-158ºC			0.003 mg/ml		3.97		3.74
+Icotinib											
+Idarubicin									0.2		
+Idelalisib											
+Idoxuridine				193			2000 mg/L (at 25 °C)		-0.96		
+Idronoxil											
+Ifosfamide				39-41 °C			3780 mg/L		0.86		
+Imatinib				226 °C (mesylate salt)			Very soluble in water at pH < 5.5 (mesylate salt)		3		
+Imexon											
+Imiquimod				292-294 °C			Poorly soluble		2.7		
+Incyclinide											
+Indibulin											
+Indole-3-carbinol											
+Indoximod											
+Inotuzumab ozogamicin											
+Interferon Alfa-2a, Recombinant		-0.336	5.99		C860H1353N227O255S9	19241.1	100 mg/ml				
+Interferon Alfa-2b, Recombinant		-0.339	5.99	61 °C	C860H1353N229O255S9	19271.0					
+Interferon beta-1b		-0.447	9.02		C908H1408N246O253S6	20011.0					
+Intetumumab											
+Intoplicine											
+Ipilimumab					C6572H10126N1734O2080S40	148000.0					
+Irinotecan				222-223 °C			Soluble		3.2		
+Irofulven											
+Irosustat											
+Isotretinoin									4.2		
+Ispinesib											
+Ixabepilone											
+Ixazomib											
+JNJ-38877605											
+JNJ-40346527											
+KRN-7000											
+Kappadione	655.30										
+LCL-161											
+LM-609											
+LS11											
+LY-295501											
+LY2181308											
+Labetuzumab											
+Labetuzumab govitecan											
+Labradimil											
+Lapatinib									5.4		
+Laromustine											
+Larotaxel											
+Leflunomide				165-166 °C			21 mg/L (poorly soluble)		2.8		
+Lenalidomide							Soluble in organic solvent/water mixtures, and buffered aqueous solvents. Lenalidomide is more soluble in organic solvents and low pH solutions. Solubility was significantly lower in less acidic buffers, ranging from about 0.4 to 0.5 mg/mL.		-0.4		
+Lenvatinib									3.30		5.05
+Lestaurtinib											
+Letrozole				184-185 °C					2.5		
+Leuprolide		0.1			C59H84N16O12	1209.3983					
+Lexatumumab											
+Liarozole											
+Linsitinib											
+Lithium	1336			180.5			Violent reaction				
+Litronesib											
+Lobaplatin											
+Lonafarnib											
+Lorvotuzumab mertansine											
+Lovastatin				174.5 °C			0.0004 mg/mL		4.26		
+Lucatumumab											
+Lurtotecan											
+Lycopene											
+ME-344											
+MK-1775											
+MK-8776											
+MKC-1											
+MLN8054											
+Marizomib											
+Masitinib											
+Matuzumab											
+Melphalan				182.5 °C			< 0.1 g/100 mL at 22 °C		-0.52		
+Methotrexate				195 °C			2600 mg/L	-5.92	-1.85		4.7
+Methylthioinosine				164 °C					0.09		
+Midostaurin				235-260			<1mg/mL		5.89		
+Milataxel											
+Milatuzumab											
+Miltefosine											~2
+Mirvetuximab Soravtansine											
+Mitomycin	534 °C			>360 °C			Soluble (8430 mg/L)		-0.40		10.9
+Mitoxantrone									-3.1		
+Mocetinostat											
+Mogamulizumab											
+Molgramostim											
+Motesanib											
+Motolimod											
+Motolimod 											
+NV1020											
+Navitoclax											
+Nedaplatin							10 mg/mL				
+Nelarabine				209-217 °C (with decomposition)			Slightly soluble to soluble in water		-1		
+Nelfinavir				349.84 °C			Slightly soluble		6		
+Neratinib											
+Nilotinib											
+Nimotuzumab											
+Nimustine											
+Nintedanib											
+Niraparib											
+Nirogacestat											
+Nivolumab					C6362H9862N1712O1995S42	143597.3811					
+Nolatrexed											
+ODM-201											
+ONT-093											
+OSI-7836											
+OSI-7904L											
+OXI-4503											
+Obatoclax											
+Obinutuzumab					C6512H10060N1712O2020S44	146100.0	Water soluble				
+Oblimersen											
+Octreotide									1		
+Ofatumumab					C6480H10022N1742O2020S44	146100.0					
+Olaparib											
+Olaratumab					C6554H10076N1736O2048S40	154000.0					
+Oleandrin											
+Omacetaxine mepesuccinate											
+Omipalisib											
+Onartuzumab											
+Oprozomib											
+Orantinib											
+Orteronel											
+Osimertinib											
+Oxaliplatin											
+PD-0325901											
+PF-04691502											
+PHA-793887											
+PI-88											
+PM02734											
+PR-104											
+PTC299											
+PX-12											
+Paclitaxel				216-217 °C			Insoluble		3		
+Palbociclib											7.4 (the secondary piperazine nitrogen) and 3.9 (the pyridine nitrogen)
+Palifermin		-0.650	9.47		C721H1142N202O204S9	16192.7					
+Pamidronate									-4.7		
+Panitumumab											
+Panobinostat											
+Paricalcitol									4.5		
+Parthenolide											
+Patritumab											
+Patupilone											
+Pazopanib											
+Pegdinetanib											
+Peginterferon alfa-2a			5.99	61 °C		60000.0					
+Pelitinib											
+Pembrolizumab					C6504H10004N1716O2036S46	146286.2902					
+Pemetrexed									-1.5		
+Penclomedine											
+Pentosan Polysulfate									-8		
+Perifosine											
+Pertuzumab						148000.0					
+Pevonedistat											
+Picoplatin											
+Picropodophyllin											
+Pilaralisib											
+Pirfenidone											
+Piroxicam				198-200 °C			23 mg/L (at 22 °C)	-4.45	3.06	-4.16	6.3
+Pixantrone											
+Plevitrexed											
+Plicamycin				181.5 °C							
+Plinabulin											
+Plitidepsin											
+Pomalidomide											
+Ponatinib											2.77 and 7.8 
+Porfimer sodium									2.8		
+Poziotinib											
+Pracinostat											
+Pralatrexate											
+Prednimustine											
+Procarbazine				223 °C			1420 mg/L		0.06		
+Propylthiouracil				219 °C			1200 mg/L (at 25 °C)		0.4	-2.15	
+Pyrazoloacridine											
+RAV12											
+RO-4987655											
+Radium Ra 223 Dichloride											
+Raltitrexed				180-184 °C			soluble		-1.2		
+Ramucirumab					C6374H9864N1692O1996S46	143600.0					
+Ranibizumab	Approximately 100 degrees C			Not applicable	C2158H3282N562O681S12	48349.611	Soluble in water.				
+Rasburicase		-0.465	7.16		C1521H2381N417O461S7	34109.5					
+Rebimastat											
+Refametinib											
+Regorafenib							Insoluble 				
+Repifermin											
+Resminostat											
+Retaspimycin											
+Ridaforolimus											
+Rigosertib											
+Rilotumumab											
+Rituximab		-0.414	8.68	61 °C (FAB fragment), 71 °C (whole mAb)	C6416H9874N1688O1987S44	143859.7					
+Rociletinib											
+Romidepsin											
+Roniciclib											
+Rovalpituzumab Tesirine											
+Rubitecan											
+Rucaparib							1 mg/mL				
+Ruxolitinib							Soluble in aqueous buffers across a pH of 1-8				
+S-3304											
+SAR-405838											
+SF1126											
+SJG-136											
+SNS-032											
+SNX-5422											
+SRT501											
+SVV-001											
+Sabarubicin											
+Sacituzumab govitecan											
+Sagopilone											
+Salirasib											
+Samarium (153Sm) lexidronam											
+Sapacitabine											
+Sapanisertib											
+Saracatinib											
+Satraplatin							0.4 mg/ml at pH 1-7.5				
+Selenic acid											
+Selenious acid	684.9			70			soluble 				2.46
+Seliciclib											
+Selinexor											
+Selumetinib											
+Semaxanib											
+Serdemetan											
+Sermorelin		-0.330	9.99		C149H246N44O42S	3357.882					
+Siltuximab					C6450H9932N1688O2016S50 	145000.0					
+Siplizumab											
+Sirolimus									4.3		
+Soblidotin											
+Sodium aurothiomalate											
+Somatostatin											
+Sonidegib											
+Sorafenib							Insoluble		3.8		
+Squalamine											
+Sulindac				183 °C			3000 mg/L		3.42		4.7
+Sunitinib							>25 mg/mL over pH of 1.2 to 6.8		5.2 		8.95 
+Suramin											
+T-900607											
+TAK-733											
+TAS-102											
+TAS-106											
+TNP-470											
+Tacedinaline											
+Tamoxifen				97 °C			0.000167 mg/mL at 25 °C		7.1		
+Tandutinib											
+Tanespimycin											
+Tanomastat											
+Tariquidar											
+Tasisulam											
+Tasquinimod											
+Tazarotene							Soluble		5.6		
+Tecemotide											
+Telbivudine							Sparingly soluble in water (>20 mg/mL)		-1.4		
+Temozolomide				212 °C					-2.8		
+Temsirolimus											
+Terameprocol											
+Tesmilifene											
+Testosterone				155 °C			23.4 mg/L (at 25 °C)	-4.34	3.32		
+Tezacitabine											
+Thalidomide				270 °C			545 mg/L (at 25 °C)		0.33		
+Thiotepa				51.5 °C			1.9E+005 mg/L (at 25 °C)		0.53		
+Tigecycline									0.8		
+Tioguanine				>360 °C			36.3 mg/mL		-0.07		
+Tiomolibdate ion				300 °C with decomposition							
+Tipifarnib											
+Tirapazamine											
+Tivantinib											
+Tivozanib											
+Tocladesine											
+Tocotrienol											
+Topotecan				213-218 °C			1 mg/ml		0.8		
+Tositumomab		-0.414	8.68	61 °C (FAB fragment), 71 °C (whole mAb)	C6416H9874N1688O1987S44	143859.7					
+Trabectedin											
+Trametinib											
+Trastuzumab		-0.415	8.45	61 °C (FAB fragment), 71 °C (whole mAb)	C6470H10012N1726O2013S42	145531.5					
+Trastuzumab emtansine											
+Trebananib											
+Tremelimumab											
+Treosulfan											
+Tretazicar											
+Triapine											
+Tributyrin											
+Triciribine											
+Tridolgosir				143-144 °C							
+Triptorelin											
+Troxacitabine											
+Ublituximab											
+Urelumab											
+Uridine triacetate											
+Vadimezan											
+Valproic Acid				120-130 °C			1.3 mg/mL		2.75	-1.86	4.8
+Vandetanib							0.008 mg/mL at 25°C (77°F )				
+Varlilumab											
+Vatalanib											
+Veliparib											
+Veltuzumab					C6458H9918N1706O2026S46						
+Vemurafenib				272°C			<1 mg/mL 	2.9E-06	5.1		7.1
+Venetoclax											
+Verubulin											
+Vincristine				220 °C					2.82		5
+Vinflunine				244							
+Vinorelbine				181-183			10 mg/mL in water		4		
+Vintafolide											
+Vismodegib							0.1 μg/mL and is pH dependent 		2.7 		3.8
+Vitamin C				191 dec °C			4E+005 mg/L (at 40 °C)		-1.85		4.7 (at 10 °C)
+Volasertib											
+Volociximab											
+Vorinostat											9.2
+Vosaroxin											
+Voxtalisib											
+WX-G250											
+ZD-6126											
+Zalypsis											
+Zibotentan											
+Zoptarelin doxorubicin											
+Zosuquidar											
+motexafin gadolinium											
+oportuzumab monatox											
+talactoferrin alpha											

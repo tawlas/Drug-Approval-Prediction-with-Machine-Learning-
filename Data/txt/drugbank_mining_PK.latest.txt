@@ -1,0 +1,555 @@
+	PK:clearance	PK:half-life	PK:protein-binding
+(4R)-limonene 1α,2α-epoxide			
+2-Methoxyestradiol			2ME2 was found to bind in decreasing order to plasma>albumin>alpha1-acid glycoprotein>sex-hormone-binding globulin. Plasma concentration-time profiles of total 2ME2 and unbound 2ME2 concentrations in a patient with cancer receiving 2ME2 as a single oral dose were parallel to each other. Thus, indicating that plasma protein binding is not an important consideration in pharmacokinetic monitoring of 2ME2.
+2-chloroethyl-3-sarcosinamide-1-nitrosourea			
+6-O-benzylguanine			
+7-Hydroxystaurosporine			
+ABT-510			
+ABT-751			
+ABT-869			
+ADH-1			ADH-1 binds to and inhibits N-cadherin.
+AI-850			
+AN-9			
+AS1409			
+ASP-3026			
+AT7519			
+AT9283			
+ATN-161			
+ATP			
+AUY922			
+AZD-4877			
+AZD-8055			
+AZD3409		15–20 hours for the thiol-ester intermediate and 15–30 hours for the active thiol-acid metabolite.&#13;	
+Abemaciclib	The geometric mean hepatic clearance (CL) of abemaciclib in patients was 26.0 L/h (51% CV) [FDA Label].	The mean plasma elimination half-life for abemaciclib in patients was 18.3 hours (72% CV) [FDA Label].	According to in vitro models using animal brain tissues, the protein binding of abemaciclib is approximately 95-98% [A27284]. While abemaciclib demonstrated *in vitro* binding to serum albumin, alpha-1-acid glycoprotein and other human plasma proteins in a concentration-depedent manner, its major metabolites are also shown to bind to plasms proteins as well. The approximate bound fractions of M2, M18 and M20 are 93.4%, 96.8% and 97.8%, respectively [FDA Label]. 
+Abiraterone		Terminal elimination half-life = 5-14 hours 	>99% protein bound to alpha-1-acid glycoprotein and albumin. 
+Abituzumab			
+Acalabrutinib	Acalabrutinib's mean apparent oral clearance (CL/F) is observed to be 159 L/hr with similar PK between patients and healthy subjects, based on population PK analysis [FDA Label].	After administering a single oral dose of 100 mg acalabrutinib, the median terminal elimination half-life of the drug was found to be 0.9 (with a range of 0.6 to 2.8) hours [FDA Label].&#13;&#13;The half-life of the active metabolite, ACP-5862, is about 6.9 hours [FDA Label].	Reversible binding of acalabrutinib to human plasma protein is approximately 97.5%. The in vitro mean blood-to-plasma ratio is about 0.7 [FDA Label].
+Acridine Carboxamide			
+Adecatumumab			
+Afatinib		Cancer patients, repeat dosing = 37 hours 	95% bound to human plasma protein. 
+Aflibercept	When cancer patients were given 2-9 mg/kg every 2 or 3 week; 1 hour IV infusion of aflibercept the typical estimated clearances were as follows:&#13;CL of free aflibercept (CLf) = 0.88 L/day;&#13;CL of bound aflibercept (CLf) = 0.19 L/day; &#13;Patients clear free aflibercept faster if they had low albumin or high alkaline phosphatase levels. 	Intravitreal half-life= 7.13 days in humans; &#13;Terminal elimination half-life of free aflibercept in plasma was 5 to 6 days after IV injection of 2 - 4 mg/kg dose. 	
+Albendazole		Terminal elimination half-life ranges from 8 to 12 hours (single dose, 400mg).	70% bound to plasma protein
+Aldesleukin		13 min-85 min	
+Aldoxorubicin			
+Alectinib	The apparent clearance is 81.9L/hr for alectinib and 217 L/hr for M4. 	The mean elimination half life is 33 hr for alectinib and 31 hr for M4. 	Alectinib and its major metabolite M4 are >99% bound to human plasma proteins. 
+Alemtuzumab		~288 hrs	
+Alisertib			
+Alitretinoin			
+Alvespimycin	The mean clearance is 18.9 L/hr at the dose of 80mg/m^2.	The half-life across all dose levels ranged from 9.9 to 54.1 h (median, 18.2 h) [A19251]. 	Reported to be minimal.
+Alvocidib			
+Amifostine		8 minutes	
+Amonafide			
+Amrubicin	The plasma pharmacokinetics of amrubicin in cancer patients are characterized by low total clearance (22% of total liver blood flow) [L1710].	20-30 h [A32143]&#13;&#13;In a study of dogs, Amrubicin plasma concentrations followed a biphasic pattern with peak concentrations observed immediately after dosing followed by α and β half-lives (t1/2) ± SD of 0.06 ± 0.01 and 2.0 ± 0.3 hours, respectively [L1710].	A study was performed on the plasma protein binding of amrubicin in both patients with hepatic impairment and those with normal liver function. In those with liver impairment, the plasma protein binding was found to be 91.3–97.1% and in those with normal hepatic function, 82.0–85.3% [L1713].
+Anhydrovinblastine			
+Annamycin			
+Apaziquone			
+Apitolisib			
+Arsenic trioxide			75% bound
+Arzoxifene			
+Asparaginase Escherichia coli		Plasma half life of L-asparagine derived from _E. coli_ following intravenous injection was 8-30 hrs [FDA Label]. Plasma half-life was 34 to 49 hours after intramuscular injection [FDA Label]. Half-life (mean ± SD) of native _E. coli_ asparaginase is approximately 1.28 ± 0.35 days [A31999].	
+Atacicept			
+Atezolizumab	0.20 L/day	27 days	
+Atrasentan			
+Avelumab	The total systemic clearance is approximately 0.59 L/day.	The terminal half-life is approximately 6.1 days in patients receiving 10 mg/kg.	None reported.
+Aviscumine			
+Axitinib	The average clearance of axitinib is 38 L/h.	Axitinib has a half life of 2.5 to 6.1 hours.	Plasma protein binding for axitinib is high at over 99% with most protein binding to albumin followed by α1-acid glycoprotein.
+Azacitidine	* 167 +/- 49 L/h	Mean elimination half-life is approximately 4 hours.	
+BMS-184476			
+BMS-275183			
+BMS-599626			
+BMS-690514			
+BMS-908662			
+BZL101			
+Bacitracin			
+Banoxantrone		0.64 to 0.83 hours	
+Barasertib			
+Bardoxolone methyl			
+Batimastat			
+Becatecarin			
+Belinostat	1240 mL/min	Displays a three-compartment pharmacokinetic property with elimination half life of 1.1 hours	92.9% and 95.8% of belinostat is bound to protein.
+Beloranib			
+Belotecan			
+Bendamustine	700 mL/min	40 minutes	In vitro, the binding of bendamustine to human serum plasma proteins ranged from 94-96% and data suggest that bendamustine is not likely to displace or to be displaced by highly protein-bound drugs.
+Bevacizumab	* 0.26 L/day [Male patients who received 1 to 20 mg/kg of Avastin weekly, every 2 weeks, or every 3 weeks]&#13;* 0.21 L/day [Female patients who received 1 to 20 mg/kg of Avastin weekly, every 2 weeks, or every 3 weeks]&#13;* 0.25 L/day [Patients with higher tumor burden who received 1 to 20 mg/kg of Avastin weekly, every 2 weeks, or every 3 weeks]&#13;* 0.2 L/day [patients with tumor burdens below the median who received 1 to 20 mg/kg of Avastin weekly, every 2 weeks, or every 3 weeks]&#13;&#13;Clearance varies by body weight, gender, and tumor burden. Increased clearance observed in men and in patients with higher tumor burden; however, no evidence of reduced efficacy.	approximately 20 days (range: 11–50 days)	
+Bexarotene		7 hours	>99%
+Binetrakin			
+Binimetinib			
+Bizelesin			
+Bleomycin		115 minutes	1%
+Bleomycin A6			
+Blinatumomab	2.92 L/hour, standard deviation 2.83. 	2.11 hours, standard deviation 1.42. 	
+Bortezomib	* 102 L/h [patients with multiple myeloma following the first dose for doses of 1 mg/m2]&#13;* 112 L/h [patients with multiple myeloma following the first dose for doses of 1.3 mg/m2]&#13;* 15 - 32 L/h [patients with multiple myeloma following subsequent doses for doses of 1 and 1.3 mg/m2]	The mean elimination half-life of bortezomib after first dose ranged from 9 to 15 hours at doses ranging from 1.45 to 2.00 mg/m2 in patients with advanced malignancies.	83% over the concentration range of 100-1000 ng/ml.
+Bosutinib	Mean clearance (CL/F), single oral dose, fed-state = 189 L/h 	Terminal phase elimination half-life, single oral dose, fed-state = 22.5 hours 	94% bound to human plasma proteins in vitro. 96% bound to human plasma proteins in healthy subjects ex vivo. Extent of protein binding is not concentration-dependent. 
+Brentuximab vedotin	The liver is the primary route of clearance for MMAE.  The pharmacokinetics and safety of Brentuximab vedotin and MMAE were examined after the administration of 1.2 mg/kg of Adcetris to patients with mild, moderate, and severe hepatic impairment. In patients with moderate and severe hepatic impairment, the rate of ≥Grade 3 adverse reactions was 6/6 (100%) compared to 3/8 (38%) in patients with normal hepatic function [FDA label].  It is recommended to avoid use in patients with severe renal impairment (CrCl <30mL/min) [L1742].	The terminal half-life is approximately 4-6 days [FDA label].	In vitro, the binding of MMAE to human plasma proteins is in the range of 68–82% [FDA label].
+Brivanib alaninate			
+Brostallicin			
+Broxuridine			
+Bryostatin 1			
+Buparlisib			
+Busulfan	* 2.52 ml/min/kg [Following an infusion of dose of 0.8 mg/kg every six hours, for a total of 16 doses over four days]	2.6 hours	32% bound to plasma proteins and 47% bound to red blood cells. 
+Buthionine Sulfoximine			
+CH-5132799			
+CHS-828			
+CP-609754			
+CP-724714			
+CPI-613			
+CT-011			
+CT-2584			
+CUDC-101			
+CYT997			
+Cabazitaxel	Cabazitaxel has a plasma clearance of 48.5 L/h (CV 39%; 26.4 L/h/m2 for a patient with a median BSA of 1.84 m2) in patients with metastatic prostate cancer.	Following a one-hour intravenous infusion, plasma concentrations of cabazitaxel can be described by a three-compartment pharmacokinetic model with α-, β-, and γ- half-lives of 4 minutes, 2 hours, and 95 hours, respectively.	Cabazitaxel is mainly bound to human serum albumin (82%) and lipoproteins (88% for HDL, 70% for LDL, and 56% for VLDL).
+Cabozantinib	At steady state, the clearance is 4.4 L/hr.	Cabozantinib has a long half-life of 55 hours.	Cabozantinib has extensive plasma protein binding (≥ 99.7%).
+Canertinib			
+Canfosfamide		18 min	
+Cantuzumab ravtansine			
+Capecitabine		45-60 minutes for capecitabine and its metabolites.	< 60% (mainly albumin)
+Carboplatin	 * 4.4 L/hour [total body clearance, 30 minute IV infusion of 300 mg/m^2 to 500 mg/m^2] 	Initial plasma half-life (alpha) = 1.1 to 2 hours;&#13;Post distribution plasma half-life (beta) = 2.6 - 5.9 hours. 	Carboplatin is not bound to plasma protein. However, the platinum itself from carboplatin irreversibly binds to plasma proteins and is slowly eliminated with a minimum half-life of 5 days. 
+Carboxyamidotriazole			
+Carfilzomib	Systemic clearance = 151 - 263 L/hour. As this value exceeds hepatic blood flow, it suggests that carfilozmib is cleared extrahepatically. 	Following intravenous administration of doses ≥ 15 mg/m^2, carfilzomib was rapidly cleared from the systemic circulation with a half-life of ≤ 1 hour on Day 1 of Cycle 1.	Over the concentration range of 0.4 - 4 micromolar, carfilzomib was 97% protein bound. 
+Carlumab			
+Carmustine		15-30 minutes	80%
+Catumaxomab		Catumaxomab has an apparent half life of elimination of 2.5 days [FDA Label].	
+Cediranib		12 to 35 hours	
+Celecoxib	Apparent clearance (CL/F), single oral 200 mg dose, healthy subjects = 27.7 L/hr. 	The effective half-life is approximately 11 hours when a single 200 mg dose is given to healthy subjects. Terminal half-life is generally variable because of the low solubility of the drug thus prolonging absorption. 	97%, primarily to albumin and, to a lesser extent, a<sub>1</sub>-acid glycoprotein. Celecoxib is not preferentially bound to red blood cells. 
+Ceritinib	The geometric mean apparent clearance (CL/F) of ceritinib was lower at steady-state (33.2 L/h) after 750 mg daily dosing than after a single 750 mg dose (88.5 L/h).	The terminal half life is 41 hours.	Ceritinib is 97% bound to human plasma proteins, independent of drug concentration.
+Cetuximab	Female patients had 25% lower intrinsic clearance than male patients.	The mean half-life for Cetuximab is 114 hours (range 75-188 hours).	
+Cevipabulin			
+Chlorambucil		1.5 hours	99%
+Chloroquine		1-2 months	~55% of the drug in the plasma is bound to nondiffusible plasma constituents
+Chlorsulfaquinoxaline			
+Ciclopirox		1.7 hours for 1% topical solution.	Protein binding is 94-97% following topical administration.
+Cilengitide			
+Cintredekin Besudotox			
+Cisplatin	 * 15-16 L/h/m^2 [total body clearance, 7-hour infusion of 100 mg/m^2] &#13; * 62 mL/min/m^2 [renal clearance, 2-hour infusion of 100 mg/m^2] &#13; * 50 mL/min/m^2 [renal clearance, 6- to 7-hour infusion of 100 mg/m^2] &#13; The renal clearance of free (ultrafilterable) platinum also exceeds the glomerular filtration rate indicating that cisplatin or other platinum-containing molecules are actively secreted by the kidneys. The renal clearance of free platinum is nonlinear and variable and is dependent on dose, urine flow rate, and individual variability in the extent of active secretion and possible tubular reabsorption. 	Cisplatin decays monoexponentially with a half life of 20 to 30 minutes following administrations of 50 or 100 mg/m^2.  Cisplatin has a plasma half-life of 30 minutes. The complexes between albumin and the platinum from cisplatin do not dissociate to a significant extent and are slowly eliminated with a minimum half-life of five days or more.	Cisplatin does not undergo instantaneous and reversible binding to plasma protein that is characteristic of normal drug-protein binding. However, the platinum itself is capable of binding to plasma proteins, including albumin, transferrin, and gamma globulin. Three hours after a bolus injection and two hours after the end of a three-hour infusion, 90% of the plasma platinum is protein bound. 
+Cixutumumab		148 h (3 mg/kg dose level) 209 h (6mg/kg dose level)	
+Cladribine	* 978 +/- 422 mL/h/kg	5.4 hours	20%
+Clofarabine	* 28.8 L/h/m2 [Pediatric patients (2 - 19 years old) with relapsed or refractory acute lymphoblastic leukemia (ALL) or acute myelogenous leukemia (AML) receiving 52 mg/m2 dose]	The terminal half-life is estimated to be 5.2 hours.	47% bound to plasma proteins, predominantly to albumin.
+Cobimetinib	13.9L/h	Average half life was 44 hours. 	95% bound to human plasma protein.
+Coltuximab ravtansine			
+Conatumumab			
+Copanlisib	The geometric mean clearance is 17.9 (range: 7.3 to 51.4; SD: 8.5) L/hr [FDA Label]. 	The geometric mean terminal elimination half-life of copanlisib is 39.1 (range: 14.6 to 82.4; SD: 15.0) hours [FDA Label]. 	The *in vitro* human plasma protein binding of copanlisib is 84.2%, with albumin being the main binding protein [FDA Label]. 
+Corticorelin			
+Cositecan			
+Crizotinib	The mean apparent clearance (CL/F) of crizotinib was lower at steady state (60 L/hr) after 250 mg twice daily than that after a single 250 mg oral dose (100 L/hr), which was likely due to autoinhibition of CYP3A by crizotinib after multiple dosing.	Plasma terminal half-life, patients = 42 hours 	Crizotinib is 91% bound to plasma protein. This is not affected by drug concentration. 
+Curcumin			
+Cyanocobalamin		Approximately 6 days (400 days in the liver).	Very high (to specific plasma proteins called transcobalamins); binding of hydroxocobalamin is slightly higher than cyanocobalamin.
+Cyclopentolate			
+Cyclophosphamide	Total body clearance = 63 ± 7.6 L/kg. 	3-12 hours	20% of cyclophosphamide is protein bound with no dose dependent changes. Some metabolites are protein bound to an extent greater than 60%. 
+Cytarabine		10 minutes	13%
+Cytidine 3'-monophosphate			
+DOTMP HO-166			
+DTS-201			
+Dabrafenib	The apparent clearance of dabrafenib is 17.0 L/h after single dosing and 34.4 L/h after 2 weeks of twice daily dosing.	Dabrafenib = 8 hours; &#13;Hydroxy-dabrafenib = 10 hours;&#13;Carboxy-dabrafenib = 21-22 hours;&#13;Desmethyl-dabrafenib = 21- 22 hours. 	99.7% bound to human plasma protein. 
+Dacarbazine		5 hours	Less than 5%
+Daclizumab		11-38 days	
+Dacomitinib			
+Dactinomycin		36 hours	5%
+Dactolisib			
+Daniquidone			
+Danusertib			
+Daratumumab	171.4 mL/day. Clearance decreased with increasing dose and repeated dosing, indicating target-mediated pharmacokinetics.	Approximately 18 days. 	
+Dasatinib		The overall mean terminal half-life of dasatinib is 3-5 hours.	96%
+Daunorubicin		18.5 hours	97% binding-albumin
+Decitabine	* 125 L/h/m2 [Patients receiving 15 mg/m2 3-hr infusion every 8 hours for 3 days]&#13;* 210 L/h/m2 [20 mg/m2 1-hr infusion daily for 5 days]	The terminal phase elimination half-life is 0.51 &plusmn; 0.31 hours.	Plasma protein binding of decitabine is negligible (<1%). 
+Defactinib			
+Demcizumab			
+Denibulin			
+Denileukin diftitox	* 0.6 - 2.0 mL/min/kg [Lymphoma]	70-80 min	
+Deoxyspergualin			
+Depatuxizumab mafodotin			
+Dichloroacetic Acid			
+Diethylnorspermine			
+Diethylstilbestrol			
+Dinaciclib			
+Docetaxel	* 21 L/h/m2 [Total body clearance, cancer patients after IV administration of 20–115 mg/m2]	Dose-dependent. Doses of 70 mg per square meter of body surface area (mg/m 2 ) or higher produce a triphasic elimination profile. With lower doses, assay limitations precluded detection of the terminal elimination phase. The half-life of the alpha, beta, and gamma phase are 4 minutes, 36 minutes, and 11.1 hours, respectively. 	In vitro studies show that 94% protein bound, mainly to a1-acid glycoprotein, albumin, and lipoproteins. When measured in cancer patients, docetaxel is 97% bound to plasma protein. Dexamethasone does not affect the protein binding of docetaxel.
+Dolastatin 10			
+Dovitinib			
+Doxifluridine			
+Doxorubicin	* 324-809 mL/min/m2 [by metabolism and biliary excretion] &#13;* 1088 mL/min/m2 [Men]&#13;* 433 mL/min/m2 [Women]&#13;* 1540 mL/min/m2 [children greater than 2 years of age receiving administration of 10 to 75 mg/m2 doses]&#13;* 813 mL/min/m2 [infants younger than 2 years of age receiving administration of 10 to 75 mg/m2 doses]	Terminal half life = 20 - 48 hours. 	Doxorubicin and its major metabolite, doxorubicinol, is 74-76% bound to plasma protein. The extent to binding is independent of plasma concentration up to 1.1 mcg/mL. Doxorubicin does not cross the blood brain barrier. 
+Durvalumab	Mean steady state clearance is approximately 8.24 mL/h (37.3% coefficient of variation). 	Mean elimination half-life is approximately 12 days with 23.2% coefficient of variation.	
+E-7820			
+E7107			
+Edotecarin		20 to 25 hours	
+Efatutazone			
+Eflornithine		8 hours	
+Elacridar			
+Elacytarabine			
+Elotuzumab	The clearance of elotuzumab decreased from a geometric mean (CV%) of 17.5 (21.2%) to 5.8 (31%) mL/day/kg with an increase in dose from 0.5 (i.e., 0.05 times the recommended dosage) to 20 mg/kg (i.e., 2 times the recommended dosage). Based on a population PK model, when elotuzumab is given in combination with lenalidomide and dexamethasone, approximately 97% of the maximum steady-state concentration is predicted to be eliminated with a geometric mean (CV%) of 82.4 (48%) days. 		
+Emibetuzumab			
+Enasidenib	Enasidenib displays a mean total body clearance (CL/F) of 0.74 L/hour [FDA Label]. 	Enasidenib has a terminal half-life of 137 hours [FDA Label].	In vitro, human plasma protein binding of enasidenib is 98.5% and 96.6% for its metabolite AGI-16903. Both the parent drug and its main metabolite are not reported to be substrates of MRP2, OAT1, OAT3, OATP1B1, OATP1B3, and OCT2. AGI-16903 is a substrate for both P-glycoprotein and BCRP [FDA Label]. 
+Endostar			
+Eniluracil			
+Ensituximab			
+Entinostat			
+Enzalutamide	Apparent clearance (CL/F), single oral dose = 0.56 L/h (range of 0.33 - 1.02 L/h) 	The mean terminal half-life (t1/2) for enzalutamide in patients after a single oral dose is 5.8 days (range 2.8 to 10.2 days). Following a single 160 mg oral dose of enzalutamide in healthy volunteers, the mean terminal t1/2 for N-desmethyl enzalutamide is approximately 7.8 to 8.6 days.	Enzalutamide is 97% to 98% bound to plasma proteins, primarily albumin. N-desmethyl enzalutamide is 95% bound to plasma proteins. 
+Enzastaurin			
+Epirubicin	* 65 +/- 8 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 60 mg/m2]&#13;* 83 +/- 14 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 75 mg/m2]&#13;* 65 +/- 13 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 120 mg/m2]&#13;* 69 +/- 13 L/hour [Patients1 with Solid Tumors Receiving Intravenous Epirubicin 150 mg/m2]	Half-lives for the alpha, beta, and gamma phases of about 3 minutes, 2.5 hours and 33 hours, respectively	77%
+Epofolate			
+Epratuzumab			
+Erdafitinib			
+Eribulin	1.16 L/hr/m2 to 2.42 L/hr/m2 (dose range of 0.25 mg/m2 to 4.0 mg/m2). [FDA]	about 40 hours	49 to 65%. 
+Erlotinib	Smokers have a 24% higher rate of erlotinib clearance. 	Median half-life of 36.2 hours.	93% protein bound to albumin and alpha-1 acid glycoprotein (AAG)
+Estramustine		20 hours	
+Etalocib			
+Etanidazole			
+Etaracizumab			
+Etodolac	* Oral cl=49.1 mL/h/kg [Normal healthy adults]&#13;* Oral cl=49.4 mL/h/kg [Healthy males (18-65 years)]&#13;* Oral cl=35.7 mL/h/kg [Healthy females (27-65 years)]&#13;* Oral cl=45.7 mL/h/kg [Eldery (>65 years)]&#13;* Oral cl=58.3 mL/h/kg [Renal impairement (46-73 years)]&#13;* Oral cl=42.0 mL/h/kg [Hepatic impairement (34-60 years)]	Terminal t<sub>1/2</sub>, 7.3 &plusmn; 4.0 hours. Distribution t<sub>1/2</sub>, 0.71 &plusmn; 0.50 hours	> 99% bound, primarily to albumin
+Etoposide	* Total body clearance = 33 - 48 mL/min [IV administration, adults]&#13;* Mean renal clearance = 7 - 10 mL/min/m^2 	4-11 hours	97% protein bound. 
+Everolimus	Following a 3 mg radiolabeled dose of everolimus, 80% of the radioactivity was recovered from the feces, while 5% was excreted in the urine. 	~30 hours.	~ 74% in both healthy patients and those with moderate hepatic impairment.  
+Evofosfamide			
+Exatecan			
+Exemestane		24 hours	90% (mainly α1-acid glycoprotein and albumin)
+Exisulind			
+Falnidamol			
+Famitinib			
+Farletuzumab			
+Fenretinide			
+Figitumumab			
+Filanesib			
+Floxuridine			
+Fludarabine	* 117-145 mL/min [patients with B-cell CLL receiving IV administration of a single dose of 40 mg/m2]	20 hours	19-29%
+Fluorouracil		10-20 minutes	8-12%
+Foretinib			
+Forodesine			
+Fostamatinib			
+Fotemustine			
+Fresolimumab			
+Fruquintinib			
+GDC-0917			
+GPX-150			
+GSK-923295			
+GTI 2040			
+Galeterone			
+Galiximab		13 to 24 days	
+Galunisertib			
+Gandotinib			
+Ganitumab			
+Gefitinib	* 595 mL/min [IV administration] 	48 hours [IV administration] 	90% primarily to serum albumin and alpha 1-acid glycoproteins (independent of drug concentrations).
+Gemcitabine	* 92.2 L/hr/m2 [Men 29 yrs]&#13;* 75.7 L/hr/m2 [Men 45 yrs]&#13;* 55.1 L/hr/m2 [Men 65 yrs]&#13;* 40.7 L/hr/m2 [Men 79 yrs]&#13;* 69.4 L/hr/m2 [Women 29 yrs]&#13;* 57 L/hr/m2 [Women 45 yrs]&#13;* 41.5 L/hr/m2 [Women 65 yrs]&#13;* 30.7 L/hr/m2 [Women 79 yrs]	Gemcitabine half-life for short infusions ranged from 42 to 94 minutes, and the value for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.	Plasma protein binding is negligible (<10%)
+Gemcitabine elaidate			
+Gemtuzumab ozogamicin	The mean clearance rate was approximately 0.12±0.15 L/h/m^2 in pediatric patients receiving a dose level of 9mg/m^2 [A20377].	In pediatric patients receiving a dose level of 9mg/m^2, the half life was approximately 64±44 h after the first dose [A20377]. 	
+Gilteritinib			
+Gimatecan			
+Glasdegib			
+Glufosfamide			
+Gossypol			
+Grn163l			
+Gusperimus			
+Halofuginone		23.8 to 72.1 hours	
+IMC-1C11			
+ING-1			
+IPH 1101			
+IPH 2101			
+Ibritumomab tiuxetan	Approximately 7.2% of injected dose of yttrium Y 90 ibritumomab tiuxetan is excreted in urine within 7 days.	0.8 hours (mammalian reticulocytes, in vitro)	
+Ibrutinib	In patients with normal renal function, the clearance rate is in the range of 112-159 ml/min.[A7663]	The elimination half-life of ibrutinib is of approximately 4-6 hours.[T148]	Irreversible plasma protein binding increases gradually over time and reaches 25% of the administered dose 8 hours after initial administration. From the plasma proteins, ibrutinib has been shown to be mainly bound to albumin and to bind to α1 AGP.[A7663] The irreversible protein binding of ibrutinib to plasma proteins can account for 97.3% of the administered dose.[T148]
+Icotinib	the clearance was calculated as CL/F = 13.30 ± 4.78 l/h 	5.5 hrs	 Icotinib binds to Sudlow's site I in subdomain IIA of Human Serum Albumin (HSA) molecule, resulting in the formation of icotinib-HSA complexes.
+Idarubicin		22 hours	97%
+Idelalisib	14.9 L/hr	The terminal elimination half-life is 8.2 hours.	Idelalisib is greater than 84% bound to human plasma proteins with no concentration dependence. 
+Idoxuridine			
+Idronoxil			
+Ifosfamide	 * 2.4±0.33 L/h/m^2 [pediatric patients] 	7-15 hours. The elimination half-life increase appeared to be related to the increase in ifosfamide volume of distribution with age.	Ifosfamide shows little plasma protein binding. 
+Imatinib	* 8 L/h [50-year-old CML and GIST patient weighing 50 kg]&#13;* 14 L/h [50-year-old CML and GIST patient weighing 100 kg]	Following oral administration in healthy volunteers, the elimination half-lives of imatinib and its major active metabolite, the N-demethyl derivative (CGP74588) are approximately 18 and 40 hours, respectively. 	95% protein bound, mostly to albumin and alpha-1-acid glycoprotein. 
+Imexon			
+Imiquimod		20 hours (topical dose), 2 hours (subcutaneous dose)	
+Incyclinide			
+Indibulin			
+Indole-3-carbinol			
+Indoximod			
+Inotuzumab ozogamicin	The clearance of inotuzumab ozogamicin at steady state is 0.0333 L/h [L938]. 	The elimination half life at the end of Cycle 4 of administration is approximately 12.3 days in a 2-compartment model [L938]. 	*In vitro* studies show the binding of the N-acetyl-gamma-calicheamicin dimethylhydrazide to human plasma proteins to be approximately 97% [L938]. 
+Interferon Alfa-2a, Recombinant	* 2.14 - 3.62 mL/min/kg [healthy]	The IM half-life of interferon alfa-2a is 6 hours to 8 hours; the half-life for IV infusion is 3.7 hours to 8.5 hours (mean 5.1 hours).	
+Interferon Alfa-2b, Recombinant		The elimination half-life following both intramuscular and subcutaneous injections was approximately 2 to 3 hours. The elimination half-life was approximately 2 hours following intravenous injection.	
+Interferon beta-1b	* 9.4 – 28.9 mL/min•kg-1 [patients with diseases other than MS receiving single intravenous doses up to 2.0 mg]		
+Intetumumab			
+Intoplicine			
+Ipilimumab	Clearance was measured to be 15.3mL/hr-16.8 mL/hr.&#13;&#13;In one pharmacokinetic study examining ipilimumab administered every 3 weeks, clearance was found to be time invariant. Minimal systemic accumulation was observed (accumulation index of 1.5 fold or less).   &#13;Steady state concentrations was reached by the third dose. &#13;&#13;Clearance will increase with increasing body weight; however, no dose adjustment is needed if administration occurs on a mg/kg basis. The following had no clinically meaningful influence on clearance: Age (range 26-86 years), gender, creatinine clearance (if ≥29ml/min), baseline AST, total bilirubin, ALT levels, concomitant use of budesonide, performance status, HLA-A2*0201 status, positive anti-ipilimumab antibody status, prior use of systemic anticancer therapy, baseline lactate dehydrogenase levels.	Terminal Elimination Half-life: 14.7 -15.4 days&#13;	
+Irinotecan	 * 13.3 L/h/m^2 [Dose of 125 mg/m^2, patients with solid tumours] &#13; * 13.9 L/h/m^2 [Dose of 340 mg/m^2, patients with solid tumours] &#13;	The half life of irinotecan is about 6 - 12 hours. The terminal elimination half-life of the active metabolite, SN-38 is 10 - 20 hours. 	30%-68% protein bound, mainly to albumin. 
+Irofulven			
+Irosustat			
+Isotretinoin	* 96 +/- 6.27 L/hr [severe recalcitrant nodular acne pediatric Patients, 12 to 15 Years]	17-50 hours	99.9%
+Ispinesib			
+Ixabepilone		52 hours	67-77%
+Ixazomib		Terminal half-life is 9.5 days. 	99%
+JNJ-38877605			
+JNJ-40346527			
+KRN-7000			
+Kappadione	 The plasma clearance (CL/F) of VK3 was 0.822 ± 0.254 L min-1. [LI572]	Mean elimination half-life of menadione was 27.17 min in the plasma of rabbits, in one study [L1574].	
+LCL-161			
+LM-609			
+LS11			
+LY-295501			
+LY2181308			
+Labetuzumab			
+Labetuzumab govitecan			
+Labradimil			
+Lapatinib		Single-dose terminal half life: 14.2 hours&#13;Effective multiple-dose half life: 24 hours	Highly bound (&gt;99%) to albumin and alpha-1 acid glycoprotein
+Laromustine			
+Larotaxel			
+Leflunomide		2 weeks	>99.3%
+Lenalidomide	The renal clearance of lenalidomide exceeds the glomerular filtration rate. 	Healthy subjects = 3 hours;&#13;Multiple myeloma or MDS patients = 3 - 5 hours. 	30% protein bound. 
+Lenvatinib		The terminal elimination half­life of lenvatinib is approximately 28 hours.	In vitro binding of lenvatinib to human plasma proteins ranged from 98% to 99%.
+Lestaurtinib			
+Letrozole		2 days	
+Leuprolide	* 8.34 L/h [healthy male receiving a 1-mg IV bolus]	~3 hours	43% to 49%
+Lexatumumab			
+Liarozole			
+Linsitinib			
+Lithium			
+Litronesib			
+Lobaplatin			
+Lonafarnib			
+Lorvotuzumab mertansine			
+Lovastatin		5.3 hours	Lovastatin and its β-hydroxyacid metabolites are highly protein bound (>95%).  
+Lucatumumab			
+Lurtotecan			
+Lycopene			
+ME-344			
+MK-1775			
+MK-8776			
+MKC-1			
+MLN8054			
+Marizomib			
+Masitinib			
+Matuzumab		196 hours	
+Melphalan		1.5 (&plusmn;0.83) hours	Moderate to high (60 to 90%), primarily to albumin and, to a lesser extent, alpha 1-acid glycoprotein. 30% is irreversibly bound.
+Methotrexate	Methotrexate clearance rates vary widely and are generally decreased at higher doses. Delayed drug clearance has been identified as one of the major factors responsible for methotrexate toxicity.  	Low doses (less than 30 mg/m^2): 3 to 10 hours; High doses: 8 to 15 hours.	50% bound to protein, primarily to albumin
+Methylthioinosine			
+Midostaurin	The clearance values of during the initial formation of metabolites are 1.47 L/h for CGP62221 metabolite and 0.501 L/h for CGP52421. 28 days following the oral administration of midostaurin, the clearance of CGP52421 may increase up to 5.2 fold in a recommended dose of 25 mg, resulting in a 2.1- to 2.5-fold increase in total clearance of midostaurin [A19109]. 	Elimination half life is approximately 21 hrs for midostaurin, 32 hrs for CGP62221 and 482 hrs  for CGP52421. 	Midostaurin predominantly binds to α1-acid glycoprotein in vitro. The parent drug and its metabolites are >99.8% bound to plasma proteins in vitro. 
+Milataxel			
+Milatuzumab			
+Miltefosine	Plasma clearance is very low and the terminal elimination half life was found to be 84 and 159 hours in rats and dogs respectively. 	The primary elimination half life is 7.05 days (range: 5.45-9.10 days) and the terminal half-life is 30.9 days (range: 30.8-31.2 days). 	Plasma protein binding ranges from 96% to 98%. Miltefosine binds to both serum albumin (97% bound) and low-density lipoprotein (3% bound).
+Mirvetuximab Soravtansine			
+Mitomycin		8-48 min	
+Mitoxantrone	* 21.3 L/hr/m2 [Elderly patients with breast cancer receiving IV administration of 15-90 mg/m2]&#13;* 28.3 L/hr/m2 [Non-elderly patients with nasopharyngeal carcinoma receiving IV administration of 15-90 mg/m2]&#13;* 16.2 L/hr/m2 [Non-elderly patients with  malignant lymphoma receiving IV administration of 15-90 mg/m2]	75 hours	78%
+Mocetinostat			
+Mogamulizumab			
+Molgramostim			
+Motesanib			
+Motolimod			
+Motolimod 			
+NV1020			
+Navitoclax			
+Nedaplatin	Clearance of the free platinum is 4.47 L/h [A20307].		Approximately 50% of the platinum from nedaplatin appears to be bound to human plasma proteins [A20306].
+Nelarabine	* 197  +/-  189 L/h/m2 [Adult patients with refractory leukemia or lymphoma receiving doses of 199 to 2,900 mg/m2]&#13;* 259  +/-  409 L/h/m2 [Pediatric patients with refractory leukemia or lymphoma receiving doses of 104 to 2,900 mg/m2]	Nelarabine and ara-G are rapidly eliminated from plasma with a half-life of approximately 30 minutes and 3 hours.	Nelarabine and ara-G are not substantially bound to human plasma proteins (<25%) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 mM.
+Nelfinavir		3.5 - 5 hours	&gt;98%
+Neratinib	The total clearance during multiple doses is 216 L/h for after the first dose and 281 L/h during steady state [FDA Label].	The mean half life of elimination ranges from 7-17 h following a single dose [FDA Label]. The mean plasma half life during multiple doses is 14.6 h for neratinib, 21.6 h for M3, 13.8 h for M6, and 10.4 h for M7.	Neratinib is over 99% bound to human plasma proteins [FDA Label]. It binds both human serum albumin and α1 acid glycoprotein.
+Nilotinib		15 hours	
+Nimotuzumab			
+Nimustine			
+Nintedanib	Total plasma clearance after intravenous infusion was found to be 1390 mL/min, while renal clearance was found to be 20 mL/min.	9.5 hours	The in vitro protein binding of nintedanib in human plasma was high, with a bound fraction of 97.8%. Serum albumin is considered to be the major binding protein. 
+Niraparib	the apparent total clearance (CL/F) of niraparib was 16.2 L/h in cancer patients.  	Following multiple daily doses of 300 mg niraparib, the mean half-life (t1/2) is 36 hours.	Niraparib is 83.0% bound to human plasma proteins.
+Nirogacestat			
+Nivolumab	9.5 mL/hr	26.7 days	
+Nolatrexed			
+ODM-201			
+ONT-093			
+OSI-7836			
+OSI-7904L			
+OXI-4503			
+Obatoclax			
+Obinutuzumab	The clearance of obinutuzumab is 0.09L/day.	The half life of obinutuzumab is 28.4 days.	Obinutuzumab does not bind to plasma proteins.
+Oblimersen			
+Octreotide	* 7 – 10 L/hr [healthy after 100-mcg SC injection]&#13;* 18 L/hr [patients with acromegaly after 100-mcg SC injection]&#13;* 8.8 L/hr [mild renal impairment after 100-mcg SC injection]&#13;* 7.3 L/hr [moderate renal impairment after 100-mcg SC injection]&#13;* 7.6 L/hr [severe renal impairment after 100-mcg SC injection]&#13;* 4.5 L/hr [severe renal failure requiring dialysis after 100-mcg SC injection]&#13;* 5.9 L/hr [Patients with liver cirrhosis after 100-mcg SC injection]&#13;* 8.2 L/hr [patients with fatty liver disease after 100-mcg SC injection]		
+Ofatumumab	0.01 L/hr &#13;Exhibited large inter-subject variability with CV% greater than 50%.	Approximately 14 days.&#13;Range: 2.3 to 61.5 days	
+Olaparib	8.6 +/- 7.1L/h.	11.9 hours, standard deviation 4.8 hours.	Approximately 82%. 
+Olaratumab	Mean value of 0.56L/day	Estimated value of 11 days	None
+Oleandrin			
+Omacetaxine mepesuccinate	Clearance for homoharringtonine was not quantified.	Homoharringtonine has a half life of about 6 hours after subcutaneous administration.	Plasma protein binding is equal or less than 50%.
+Omipalisib			
+Onartuzumab			
+Oprozomib			
+Orantinib			
+Orteronel			
+Osimertinib	Oral clearance is 14.2 L/hr. 	The population estimated mean half-life is 48 hours. 	Plasma protein binding is likely high due to its physiochemical properties.
+Oxaliplatin	 * 10 - 17 L/h [renal clearance] 	The decline of ultrafilterable platinum levels following oxaliplatin administartion is triphasic, with two distribution phases: t1/2α; 0.43 hours and t1/2β; 16.8 hours. This is followed by a long terminal elimination phase that lasts 391 hours (t1/2γ). 	Plasma protein binding of platinum (active metabolite) is irreversible and is greater than 90%, primarily to albumin and gamma-globulins. It is also irreversibly binds to erythrocytes. 
+PD-0325901			
+PF-04691502			
+PHA-793887			
+PI-88			
+PM02734			
+PR-104			
+PTC299			
+PX-12			
+Paclitaxel	* 21.7 L/h/m2 [Dose 135 mg/m2, infusion duration 24 h]&#13;* 23.8 L/h/m2 [Dose 175 mg/m2, infusion duration 24 h]&#13;* 7 L/h/m2 [Dose 135 mg/m2, infusion duration 3 h]&#13;* 12.2 L/h/m2 [Dose 175 mg/m2, infusion duration 3 h]	When a 24 hour infusion of 135 mg/m^2 is given to ovarian cancer patients, the elimination half=life is 52.7 hours. 	89%-98% bound to plasma protein. The presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
+Palbociclib	63.1 L/hr	The mean plasma elimination half-life is 29 hours.	Binding of palbociclib to human plasma proteins in vitro is approximately 85%.
+Palifermin		Elimination half-life: 4.5 hours (range: 3.3-5.7 hours)	
+Pamidronate	* 107 +/- 50 mlL/min	The mean &plusmn; SD elimination half-life is 28 &plusmn; 7 hours	Approximately 54% to human serum proteins.
+Panitumumab	* 4.9+/- 1.4 mL/kg/day [Following single-dose administrations of panitumumab as 1-hour infusions]	7.5 days (range: 4-11 days)	
+Panobinostat		30 hours	
+Paricalcitol	* 1.49 +/- 0.60 L/h [chronic kidney disease Stage 5 with hemodialysis]&#13;* 1.54 +/- 0.95 L/h [chronic kidney disease Stage 5with peritoneal dialysis]	4 to 6 hours	99.8% (bound to plasma proteins)
+Parthenolide			
+Patritumab			
+Patupilone			
+Pazopanib	CL, cancer patient, IV administration 5 mg = 4mL/min &#13;Half of the absorbed dose is cleared via oxidative metabolism. 	35 hours. Oral absorption is not the rate limiting step of elimination from the plasma. 	>99% protein bound, independent of concentrations over a range of 10-100 μg/mL. 
+Pegdinetanib			
+Peginterferon alfa-2a	The mean systemic clearance of peginterferon alfa-2a is 94 milliliters per hour [FDA Label].	The mean terminal half-life of peginterferon alfa-2a is 164 in a range of 84-353 hours [FDA Label].	
+Pelitinib			
+Pembrolizumab	0.22 L/day&#13;	23 days	As an intravenously administered antibody, the drug is immediately and completely bioavailable and is not expected to bind to plasma proteins in a specific manner. 
+Pemetrexed	* 91.8 mL/min [Cancer patients with normal renal function receiving 0.2 to 838 mg/m2 infusion  over a 10-minute period]	3.5 hours	81%
+Penclomedine			
+Pentosan Polysulfate		4.8 hours	
+Perifosine			
+Pertuzumab	0.24 L/day 	18 days 	
+Pevonedistat			
+Picoplatin			
+Picropodophyllin			
+Pilaralisib			
+Pirfenidone		2-2.5 hours	
+Piroxicam		30 to 86 hours	
+Pixantrone	Plasma clearance is 0.75 - 1.31 L/h/kg. [2]	Half life is 12 hours. [2] 	Anthracyclines, which may be effective second line treatments for NHL have limited use in therapy because of cumulative cardiotoxicity which may result in irreversible damage to cardiac tissue. [2] 
+Plevitrexed			
+Plicamycin			There is no evidence of protein binding, nor is there any evidence of metabolism of the carbohydrate moiety of the drug to carbon dioxide and water with loss through respiration.
+Plinabulin			
+Plitidepsin			
+Pomalidomide	Total body clearance = 7-10 L/hour 	Healthy subjects = 9.4 hours;&#13;Multiple myeloma patients = 7.5 hours. 	12-44% protein bound. It is not concentration dependent. 
+Ponatinib		After oral administration of 45 mg ponatinib once daily for 28 days in cancer patients, the terminal elimination half-life is 24 hours (range of 12 - 66 hours). 	> 99% bound to plasma proteins. 
+Porfimer sodium	* Renal cl=199.7 +/-  56.9 mL/min [Healthy subjects receiving a single 300-mg oral dose]	10-452 hours	~90%
+Poziotinib			
+Pracinostat			
+Pralatrexate	R- pralatrexate = 191 mL/min&#13;S- pralatrexate = 417 mL/min &#13;Mean clearance of both enantiomers is 220 mL/min. 	12-18 hours 	67 - 86% bound to plasma protein, albumin is the major binder. Does not significantly displace substrates from proteins. 
+Prednimustine			
+Procarbazine		10 minutes	
+Propylthiouracil		2 hours	82%
+Pyrazoloacridine			
+RAV12			
+RO-4987655			
+Radium Ra 223 Dichloride	The clearance rate of radium-223 was not quantified.	The half-life is relatively long at 11.4 days for radium-223.&#13;	There is negligible plasma protein binding.
+Raltitrexed		198 hours	>93%
+Ramucirumab	0.014 L/hour 	15 days	
+Ranibizumab	Clearance was not quantified.	Approximately 9 days.	Plasma protein binding is insignificant.
+Rasburicase		18 hours	
+Rebimastat			
+Refametinib			
+Regorafenib		Regorafenib, 160 mg oral dose = 28 hours (14 - 58 hours); &#13;M2 metabolite, 160 mg oral dose = 25 hours (14-32 hours); &#13;M5 metabolite, 160 mg oral dose = 51 hours (32-72 hours);  	Regorafenib is highly bound (99.5%) to human plasma proteins.
+Repifermin			
+Resminostat			
+Retaspimycin			
+Ridaforolimus			
+Rigosertib			
+Rilotumumab			
+Rituximab	* 0.34 L/day [RA patients]	0.8 hours (mammalian reticulocytes, in vitro)	
+Rociletinib			
+Romidepsin	8.4L/h	Approximately 3 hours	Highly protein bound in plasma (92%-94%)
+Roniciclib			
+Rovalpituzumab Tesirine			
+Rubitecan			
+Rucaparib	Following continuous 600mg rucaparib administration orally twice daily, the apparent clearance ranges from 15.3 to 79.2 L/hour. The clearance ranged from 13.9 to 18.4 L/hour, following a single intravenous dose of rucaparib 12 mg to 40 mg [FDA Label]. 	Following a single oral dose of 600mg rucaparib, the mean terminal half life (t1/2) was 17-19 hours [FDA Label].	In vitro, the protein binding of rucaparib was 70% in human plasma at therapeutic concentrations. Rucaparib preferentially distributed to red blood cells with a blood-to-plasma concentration ratio of 1.83 [FDA Label]. 
+Ruxolitinib	15 mg, healthy subject = 18.7 L/h. 	Mean elimination half-life, 15 mg, healthy subject = 2.8 hours. 	97% protein bound, primarily to albumin. 
+S-3304			
+SAR-405838			
+SF1126			
+SJG-136			
+SNS-032			
+SNX-5422			
+SRT501			
+SVV-001			
+Sabarubicin			
+Sacituzumab govitecan			
+Sagopilone			
+Salirasib			
+Samarium (153Sm) lexidronam			
+Sapacitabine			
+Sapanisertib			
+Saracatinib			
+Satraplatin			
+Selenic acid			
+Selenious acid		30 days in beagle dogs [L1910].	
+Seliciclib			
+Selinexor			
+Selumetinib			
+Semaxanib			
+Serdemetan			
+Sermorelin		11-12 min	
+Siltuximab	Body weight was identified as the only statistically significant covariate of siltuximab clearance, therefore body weight based dosing is appropriate. Based on population pharmacokinetic analysis, the clearance of situximab in patients is 0.23 L/day. 	The mean terminal half life after the first intravenous infusion of 11 mg/kg is 20.6 days. 	
+Siplizumab			
+Sirolimus		57-63 hours	92%
+Soblidotin			
+Sodium aurothiomalate	7.0 ml/ kg/day 	12.5 days	About 85-90% of the drug is protein bound.
+Somatostatin		2-3 min due to rapid metabolism by peptidase enzymes [A20384].	
+Sonidegib		Half-life ~ 28 days (2)	Sonidegib is over 97% bound to plasma proteins, and binding is independent of concentration. (2)
+Sorafenib		25-48 hours	99.5% bound to plasma proteins. 
+Squalamine			
+Sulindac	* Renal cl=68.12 +/- 27.56 mL/min [NORMAL (19-41 yrs)]	The mean half-life of sulindac is 7.8 hours while the mean half-life of the sulfide metabolite is 16.4 hours.	At 1 mcg/ml concentrations, approximately 93% sulindac and 98% of its sulfide metabolite are bound to human serum albumin.
+Sunitinib	* 34 - 62 L/h [Total oral clearance] 	Following administration of a single oral dose in healthy volunteers, the terminal half-lives of sunitinib and its primary active metabolite are approximately 40 to 60 hours and 80 to 110 hours, respectively.	Binding of sunitinib and its primary metabolite to human plasma protein in vitro was 95% and 90%, respectively.
+Suramin		Approximately 36 to 60 days	Approximately 99.7%
+T-900607			
+TAK-733			
+TAS-102			
+TAS-106			
+TNP-470			
+Tacedinaline			
+Tamoxifen	Clearance (CL/F) as body weight adjusted in female pediatric patients was approximately 2.3-fold higher than in female breast cancer patients. 	The decline in tamoxifen plasma concentrations is biphasic with a terminal elimination half-life of approximately 5 to 7 days. The estimated half-life of N-desmethyl tamoxifen is 14 days. 	
+Tandutinib			
+Tanespimycin			
+Tanomastat			
+Tariquidar			
+Tasisulam			
+Tasquinimod			
+Tazarotene		The half-life of the active form of the drug, tazarotenic acid, is approximately 18 hours in normal and psoriatic patients.	The active form of the drug, tazarotenic acid, is highly bound to plasma proteins (>99%).
+Tecemotide			
+Telbivudine	* 7.6 +/- 2.9 L/h [Normal renal function (Clcr>80 mL/min)]&#13;* 5.0 +/- 1.2 L/h [Mild renal function impairement (Clcr=50-80 mL/min)]&#13;* 2.6 +/- 1.2 L/h [Moderate renal function impairement (Clcr=30-49 mL/min)]&#13;* 0.7 +/- 0.4 L/h [Severe renal function impairement (Clcr<30 mL/min)]	Approximately 15 hours.	In vitro binding of telbivudine to human plasma proteins is low (3.3%).
+Temozolomide	* 5.5 L/hr/m2	Approximately 1.8 hours.	15%
+Temsirolimus	16.2 L/h (22%)	Temsirolimus exhibits a bi-exponential decline in whole blood concentrations and the mean half-lives of temsirolimus and sirolimus were 17.3 hr and 54.6 hr, respectively.	87% bound to plasma proteins <i>in vitro</i> at a concentration of 100 ng/ml
+Terameprocol			
+Tesmilifene			
+Testosterone		10-100 minutes	40% of testosterone in plasma is bound to sex hormone-binding globulin and 2% remains unbound and the rest is bound to albumin and other proteins.
+Tezacitabine			
+Thalidomide		The mean half-life of elimination ranges from approximately 5 to 7 hours following a single dose and is not altered upon multiple dosing.	55% and 66% for the (+)R and (&minus;)S enantiomers, respectively.
+Thiotepa	* 446 +/- 63 mL/min [female patients (45 to 84 years) with advanced stage ovarian cancer receiving 60 mg and 80 mg thiotepa by intravenous infusion on subsequent courses given at 4-week intervals]	1.5 to 4.1 hours	
+Tigecycline		27-43 hours	71% to 89%
+Tioguanine		When the compound was given in singles doses of 65 to 300 mg/m^2, the median plasma half-disappearance time was 80 minutes (range 25-240 minutes)	
+Tiomolibdate ion			
+Tipifarnib			
+Tirapazamine			
+Tivantinib			
+Tivozanib			
+Tocladesine			
+Tocotrienol			
+Topotecan		2-3 hours	35%
+Tositumomab	* 68.2 mg/hr [patients with NHL]	0.8 hours (mammalian reticulocytes, in vitro)	
+Trabectedin		33-50 hours	94 to 98%
+Trametinib	Apparent clearance = 4.9 L/h. 	Elimination half-life = 3.9-4.8 days. 	97.4% bound to human plasma proteins. 
+Trastuzumab	Elimination may involve clearance of IgG through the reticuloendothelial system.	average 28.5 days. Pharmacokinetics are nonlinear; increased doses are associated with increased mean half-life and decreased clearance.	
+Trastuzumab emtansine	After IV infusion, trastuzumab emtansine has a clearance of 0.68 L/day.	Trastuzumab emtansine has a long half life of about 4 days.	DM1 has a plasma protein binding value of 93%.
+Trebananib			
+Tremelimumab			
+Treosulfan			
+Tretazicar			
+Triapine			
+Tributyrin			
+Triciribine			
+Tridolgosir			
+Triptorelin	In healthy male volunteers, total clearance of triptorelin was 211.9 mL/min.	The pharmacokinetics of triptorelin follows a 3 compartment model.  The half lives are estimated to be 6 minutes, 45 minutes, and 3 hours respectively.	Triptorelin does not bind to plasma proteins at clinically relevant concentrations.
+Troxacitabine			
+Ublituximab			
+Urelumab			
+Uridine triacetate		2 to 2.5 hours	
+Vadimezan			
+Valproic Acid	* 0.56 L/hr/1.73 m2 [plasma clearance, total valproate]&#13;* 4.6 L/hr/1.73 m2 [plasma clearance, free valproate] &#13;* 4.8 ± 0.17 L/hr/1.73 m2 [males, unbound clearance]&#13;* 4.7 ± 0.07 L/hr/1.73 m2 [females, unbound clearance]	9-16 hours (following oral administration of 250 mg to 1000 mg) 	Concentration-dependent, from 90% at 40 µg/mL to 81.5% at 130 µg/mL. Higher than expected free fractions occur in the elderly, in hyperlipidemic patients, and in patients with hepatic and renal diseases. It may also affect the extent of protein binding of other drugs such as phenytoin or carbamazepine. 
+Vandetanib		Median half life of 19 days.	Protein binding of about 90%.
+Varlilumab			
+Vatalanib		Approximately 6 hours.	
+Veliparib			
+Veltuzumab			
+Vemurafenib	The total body clearance is 31 L/day.[A31274]	The elimination half-life of Vemurafenib is estimated to be 57 hours (range of 30-120 hours).[A31274]	Vemurafenib highly binds to plasma proteins where >99% of the administered dose will be found protein bound to serum albumin and alpha-1 acid glycoprotein.[A31274]
+Venetoclax		26 hr	Venetoclax is highly bound to human plasma protein with unbound fraction in plasma <0.01 across a concentration range of 1-30 µM (0.87-26 µg/mL). The mean blood-to-plasma ratio was 0.57.
+Verubulin			
+Vincristine		When intravenously injected into cancer patients, a triphasic serum decay patten was observed. The initial, middle, and terminal half-lives are 5 minutes, 2.3 hours, 85 hours respectively. The range of the terminal half-life is humans is 19 - 155 hours. 	~75%
+Vinflunine			
+Vinorelbine	The plasma clearance of vinorelbine is high, approaching the same as hepatic blood flow in humans, and its volume of distribution is large, indicating extensive extravascular distribution. In comparison to vinblastine or vincristine [A32354].	The terminal phase half-life averaged 27.7 to 43.6 hours; the mean plasma clearances ranged from 0.97 to 1.26 L/hr/kg [A32354]. 	80-90% [L2000]
+Vintafolide			
+Vismodegib		The half-life after a single dose is 12 days, and after continuous daily dosing is 4 days.	Vismodegib is highly protein bound with plasma protein binding at about 99%. Vismodegib binds to the plasma proteins, albumin and alpha-1-acid glycoprotein (saturable bnding).
+Vitamin C		16 days (3.4 hours in people who have excess levels of vitamin C)	25%
+Volasertib			
+Volociximab			
+Vorinostat		2 hours	71%
+Vosaroxin			
+Voxtalisib			
+WX-G250			
+ZD-6126			
+Zalypsis			
+Zibotentan			
+Zoptarelin doxorubicin			
+Zosuquidar			
+motexafin gadolinium			
+oportuzumab monatox			
+talactoferrin alpha			
